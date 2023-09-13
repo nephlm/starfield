@@ -1,121 +1,249 @@
 {
-    "creation": {
-        "adaptive": {
-            "aluminum": 1,
-            "iron": 1
+    "Industrial Workbench": {
+        "Adaptive Frame": {
+            "components": {
+                "Aluminum": 1,
+                "Iron": 1
+            },
+            "skill": {},
+            "mass": 1.6,
+            "value": 24
         },
-        "austin": {
-            "iron": 2,
-            "nickel": 2,
-            "reactive": 1
+        "Austenitic Manifold": {
+            "components": {
+                "Iron": 2,
+                "Nickel": 2,
+                "Reactive Gauge": 1
+            },
+            "skill": {},
+            "mass": 4.3,
+            "value": 79
         },
-        "comm relay": {
-            "tau grade": 1,
-            "iso centered": 1
+        "Comm Relay": {
+            "components": {
+                "Tau Grade Rheostat": 1,
+                "Isocentered Magnet": 1
+            },
+            "skill": {},
+            "mass": 3.5,
+            "value": 117
         },
-        "iso centered": {
-            "nickel": 1,
-            "cobalt": 1
+        "Isocentered Magnet": {
+            "components": {
+                "Nickel": 1,
+                "Cobalt": 1
+            },
+            "skill": {},
+            "mass": 1.8,
+            "value": 36
         },
-        "isotopic": {
-            "tetra": 1,
-            "ionic": 1
+        "Isotopic Coolant": {
+            "components": {
+                "Tetrafluorides": 1,
+                "Ionic Liquids": 1
+            },
+            "skill": {},
+            "mass": 0.8,
+            "value": 25
         },
-        "mag pressure": {
-            "nickel": 1,
-            "aluminum": 2
+        "Mag Pressure Tank": {
+            "components": {
+                "Nickel": 1,
+                "Aluminum": 2
+            },
+            "skill": {},
+            "mass": 1.5,
+            "value": 25
         },
-        "monopropellent": {
-            "uranium": 3,
-            "solvent": 2,
-            "semimetal": 1
+        "Monopropellent": {
+            "components": {
+                "Uranium": 3,
+                "Solvent": 2,
+                "Semimetal Wafer": 1
+            },
+            "skill": {},
+            "mass": 3.5,
+            "value": 76
         },
-        "polytextile": {
-            "fiber": 2,
-            "cosmetic": 2
+        "Polytextile": {
+            "components": {
+                "Fiber": 2,
+                "Cosmetic": 2
+            },
+            "skill": {},
+            "mass": 2,
+            "value": 25
         },
-        "reactive": {
-            "aluminum": 2,
-            "copper": 1
+        "Reactive Gauge": {
+            "components": {
+                "Aluminum": 2,
+                "Copper": 1
+            },
+            "skill": {},
+            "mass": 1.5,
+            "value": 25
         },
-        "tau grade": {
-            "beryllium": 1,
-            "copper": 1
+        "Tau Grade Rheostat": {
+            "components": {
+                "beryllium": 1,
+                "Copper": 1
+            },
+            "skill": {},
+            "mass": 2.6,
+            "value": 82
         },
-        "zero wire": {
-            "silver": 1,
-            "copper": 1
+        "Zero Wire": {
+            "components": {
+                "Silver": 1,
+                "Copper": 1
+            },
+            "skill": {},
+            "mass": 1.7,
+            "value": 52
         },
-        "drilling rig": {
-            "tungsten": 3,
-            "reactive": 1,
-            "lubricant": 2,
-            "projects": 2
+        "Drilling Rig": {
+            "components": {
+                "Tungsten": 3,
+                "Reactive Gauge": 1,
+                "Lubricant": 2
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 5,
+            "value": 143
         },
-        "molecular sieve": {
-            "mag pressure": 1,
-            "membrane": 2,
-            "ionic": 2,
-            "projects": 2
+        "Molecular Sieve": {
+            "components": {
+                "Mag Pressure Tank": 1,
+                "membrane": 2,
+                "Ionic Liquids": 2
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 3,
+            "value": 91
         },
-        "paramagnon": {
-            "neodyn": 1,
-            "gold": 1,
-            "zero wire": 3,
-            "projects": 2
+        "Maramagnon Conductor": {
+            "components": {
+                "neodyn": 1,
+                "gold": 1,
+                "Zero Wire": 3
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 4,
+            "value": 153
         },
-        "positron": {
-            "tau": 1,
-            "antimony": 2,
-            "vanadium": 2,
-            "projects": 2
+        "Positron Battery": {
+            "components": {
+                "Tau Grade Rheostat": 1,
+                "antimony": 2,
+                "Vanadium": 2
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 3,
+            "value": 133
         },
-        "semimetal": {
-            "antimony": 2,
-            "gold": 2,
-            "zero wire": 1
+        "Semimetal Wafer": {
+            "components": {
+                "antimony": 2,
+                "gold": 2,
+                "Zero Wire": 1
+            },
+            "skill": {},
+            "mass": 3.5,
+            "value": 149
         },
-        "super cooled": {
-            "isotopic": 1,
-            "iso centered": 1,
-            "neodyn": 3,
-            "projects": 2
+        "Supercooled Magnet": {
+            "components": {
+                "Isotopic Coolant": 1,
+                "Isocentered Magnet": 1,
+                "neodyn": 3
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 3.2,
+            "value": 111
         },
-        "zero G": {
-            "iso centered": 1,
-            "tantalium": 2,
-            "lubricant": 2,
-            "projects": 2
+        "Zero-G Gimbal": {
+            "components": {
+                "Isocentered Magnet": 1,
+                "Tantalum": 2,
+                "Lubricant": 2
+            },
+            "skill": {
+                "Special Projects": 2
+            },
+            "mass": 2.8,
+            "value": 93
         },
-        "control rod": {
-            "isotopic": 1,
-            "dysposium": 3,
-            "austin": 1,
-            "projects": 3
+        "Control Rod": {
+            "components": {
+                "Isotopic Coolant": 1,
+                "Dysprosium": 3,
+                "Austenitic Manifold": 1
+            },
+            "skill": {
+                "Special Projects": 3
+            },
+            "mass": 4.5,
+            "value": 180
         },
-        "microsecond regulator": {
-            "tau": 1,
-            "lithium": 2,
-            "super cooled": 1,
-            "europium": 4,
-            "projects": 3
+        "Microsecond Regulator": {
+            "components": {
+                "Tau Grade Rheostat": 1,
+                "Lithium": 2,
+                "Supercooled Magnet": 1,
+                "Europium": 4
+            },
+            "skill": {
+                "Special Projects": 3
+            },
+            "mass": 4.3,
+            "value": 212
         },
-        "nuclear fuel": {
-            "uranium": 3,
-            "solvent": 2,
-            "semimetal": 1
+        "Nuclear Fuel Rod": {
+            "components": {
+                "Uranium": 3,
+                "Solvent": 2,
+                "Semimetal Wafer": 1
+            },
+            "skill": {
+                "Special Projects": 3
+            },
+            "mass": 5,
+            "value": 225
         },
-        "power circuit": {
-            "paramagnon": 1,
-            "polymer": 2,
-            "positron": 1,
-            "palladium": 4,
-            "projects": 3
+        "Power Circuit": {
+            "components": {
+                "Maramagnon Conductor": 1,
+                "Polymer": 2,
+                "Positron Battery": 1,
+                "Palladium": 4
+            },
+            "skill": {
+                "Special Projects": 3
+            },
+            "mass": 3.8,
+            "value": 195
         },
-        "sterile nanotubes": {
-            "solvent": 2,
-            "molecular sieve": 1,
-            "vanadium": 2
+        "Sterile Nanotubes": {
+            "components": {
+                "Solvent": 2,
+                "Molecular Sieve": 1,
+                "Vanadium": 2
+            },
+            "skill": {
+                "Special Projects": 3
+            },
+            "mass": 3,
+            "value": 130
         }
     }
 }
