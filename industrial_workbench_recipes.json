@@ -1,0 +1,121 @@
+{
+    "creation": {
+        "adaptive": {
+            "aluminum": 1,
+            "iron": 1
+        },
+        "austin": {
+            "iron": 2,
+            "nickel": 2,
+            "reactive": 1
+        },
+        "comm relay": {
+            "tau grade": 1,
+            "iso centered": 1
+        },
+        "iso centered": {
+            "nickel": 1,
+            "cobalt": 1
+        },
+        "isotopic": {
+            "tetra": 1,
+            "ionic": 1
+        },
+        "mag pressure": {
+            "nickel": 1,
+            "aluminum": 2
+        },
+        "monopropellent": {
+            "uranium": 3,
+            "solvent": 2,
+            "semimetal": 1
+        },
+        "polytextile": {
+            "fiber": 2,
+            "cosmetic": 2
+        },
+        "reactive": {
+            "aluminum": 2,
+            "copper": 1
+        },
+        "tau grade": {
+            "beryllium": 1,
+            "copper": 1
+        },
+        "zero wire": {
+            "silver": 1,
+            "copper": 1
+        },
+        "drilling rig": {
+            "tungsten": 3,
+            "reactive": 1,
+            "lubricant": 2,
+            "projects": 2
+        },
+        "molecular sieve": {
+            "mag pressure": 1,
+            "membrane": 2,
+            "ionic": 2,
+            "projects": 2
+        },
+        "paramagnon": {
+            "neodyn": 1,
+            "gold": 1,
+            "zero wire": 3,
+            "projects": 2
+        },
+        "positron": {
+            "tau": 1,
+            "antimony": 2,
+            "vanadium": 2,
+            "projects": 2
+        },
+        "semimetal": {
+            "antimony": 2,
+            "gold": 2,
+            "zero wire": 1
+        },
+        "super cooled": {
+            "isotopic": 1,
+            "iso centered": 1,
+            "neodyn": 3,
+            "projects": 2
+        },
+        "zero G": {
+            "iso centered": 1,
+            "tantalium": 2,
+            "lubricant": 2,
+            "projects": 2
+        },
+        "control rod": {
+            "isotopic": 1,
+            "dysposium": 3,
+            "austin": 1,
+            "projects": 3
+        },
+        "microsecond regulator": {
+            "tau": 1,
+            "lithium": 2,
+            "super cooled": 1,
+            "europium": 4,
+            "projects": 3
+        },
+        "nuclear fuel": {
+            "uranium": 3,
+            "solvent": 2,
+            "semimetal": 1
+        },
+        "power circuit": {
+            "paramagnon": 1,
+            "polymer": 2,
+            "positron": 1,
+            "palladium": 4,
+            "projects": 3
+        },
+        "sterile nanotubes": {
+            "solvent": 2,
+            "molecular sieve": 1,
+            "vanadium": 2
+        }
+    }
+}
